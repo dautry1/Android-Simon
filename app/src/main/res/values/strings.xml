@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Simon</string>
+    <string name="highScore">High Score</string>
+    <string name="currentScore">Current Score</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="blue">Blue</string>
+    <string name="difficulty">Select a difficulty level to start the game</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="startGame">Start Game</string>
+    <string name="cancelGame">Cancel Game</string>
+    <string name="cancelingGame">Canceling game ...</string>
+    <string name="highScores">High Scores\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10</string>
+    <string name="gameOver">You should have picked this button:  </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
